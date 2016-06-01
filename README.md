@@ -1,0 +1,2 @@
+# pes
+Preferans Etudes Solver
